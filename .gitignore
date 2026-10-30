@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Shiny / rsconnect deployment metadata
+rsconnect/
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
